@@ -1,8 +1,8 @@
-Hola mundo de piruleta
+Hola mundo de fresa
 Adiós venus
 
 Línea 1
 Línea 2
 
-Línea 10
-Línea 20
+Línea 40
+Línea 50
