@@ -1,8 +1,8 @@
-Hola mundo
+Hola mundo de piruleta
 Adiós venus
 
 Línea 1
 Línea 2
 
-Línea z
+Línea 1
 Línea y
