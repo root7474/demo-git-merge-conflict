@@ -4,5 +4,5 @@ Adiós venus
 Línea 1
 Línea 2
 
-Línea 40
-Línea 50
+Línea x
+Línea y
